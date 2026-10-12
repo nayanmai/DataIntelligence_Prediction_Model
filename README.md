@@ -123,8 +123,7 @@ Prediction_model/
 
 ## 👤 Author
 
-**GitHub:** [@nayanmai]([https://github.com/](https://github.com/nayanmai/DataIntelligence_Prediction_Model)
-
+**GitHub:** [@nayanmai]([[https://github.com/nayanmai/DataIntelligence_Prediction_Model]
 ---
 
 Made with Python, NumPy, and curiosity. ✨
